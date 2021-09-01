@@ -9,3 +9,11 @@ category=Device Control
 url=https://github.com/adafruit/Adafruit-Motor-Shield-library
 architectures=*
 
+
+
+there r few codes to cheak your workings of the hardwear like:
+AFMotor_ConstantSpeed
+AFMotor_MultiStepper
+MotorParty
+MotorTest
+StepperTest
